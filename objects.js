@@ -1,8 +1,4 @@
 var playlist = new Object();
- 
- playlist = {
-   artistNames : songTitles
-};
   
 
 
