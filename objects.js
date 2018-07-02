@@ -1,5 +1,5 @@
 var playlist = new Object();{
-  "artistName" : "songTitle"
+  "artistName", "songTitle";
 }
   
 
